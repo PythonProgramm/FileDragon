@@ -1,6 +1,5 @@
 import rarfile
 import threading
-from tqdm import tqdm
 import time
 from argparse import ArgumentParser
 import zipfile
